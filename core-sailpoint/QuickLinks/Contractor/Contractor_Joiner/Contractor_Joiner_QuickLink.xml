@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE QuickLink PUBLIC "sailpoint.dtd" "sailpoint.dtd">
+<QuickLink action="workflow" category="Custom" created="1710483034936" id="0a00030f8e361672818e40bbd33806bf" messageKey="Custom QuickLink" modified="1711015875197" name="Contractor Joiner QuickLink" ordering="2">
+  <Attributes>
+    <Map>
+      <entry key="forceAllowOthers" value="false"/>
+      <entry key="hideAllowSelf" value="true"/>
+      <entry key="workflowName" value="Contractor Joiner Workflow"/>
+    </Map>
+  </Attributes>
+  <QuickLinkOptions allowSelf="true" created="1710937015380" id="0a00030f8e5a14c9818e5bcb0454034b" modified="1711015875197">
+    <DynamicScopeRef>
+      <Reference class="sailpoint.object.DynamicScope" id="0a00020f8d2114a0818d2165e6280015" name="Self Service"/>
+    </DynamicScopeRef>
+  </QuickLinkOptions>
+</QuickLink>
