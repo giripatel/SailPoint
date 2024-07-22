@@ -1,0 +1,8 @@
+1) What is the difference between customizaiton and build map rule
+2) Explain the process of application integration from requirements gathering to production deployment
+3) What are the configuration we need to do to make sure orphan accounts are not integrated in SailPoint.
+4) What is the difference between assigned and detected role.
+5) Question around IQ service.
+6) Pagination in webservices connector and rules to achive it.
+
+
